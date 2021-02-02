@@ -1,0 +1,47 @@
+/*This is my brand new fancy stylesheet */
+/*
+p {
+ color: #ff0000;
+ background-color: #E1E137;
+}
+*/
+h1 {
+  color: #B03472;
+  background-color: #4ECACA;
+}
+
+a {
+ color: #FC070B;
+  text-decoration: none;
+}
+
+a:hover {
+ color: #80FE90;
+ text-decoration: underline;
+}
+
+.spanstyle {
+  color: #FF630A;
+  background-color: #0A57FF;
+}
+
+
+#divexample {
+  color: #F385CB;
+  background-color:#16A142;
+}
+
+#brucewayne {
+  color: #7234B0;
+ background-color: #72B034;
+}
+
+.specialp {
+ color: #EE7A06;
+ background-color:#06EEC0;
+}
+
+footer {
+  color: #DBFB0D;
+  background-color: #6B27E1;
+}
