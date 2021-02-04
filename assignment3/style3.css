@@ -1,0 +1,93 @@
+h1 {
+  color: #63C600;
+  background-color: #002F66;
+}
+
+h2 {
+  color: #004EA8;
+  background-color: #F98500;
+}
+
+p {
+ color: #000000;
+ background-color:#BDC6CF;
+}
+
+h3 {
+  color: #6500AD;
+  background-color: #DFB2FF;
+}
+
+h4 {
+  color: #00841A;
+  background-color: #ADFEBD;
+}
+
+#alfred {
+  color: #ECEEA3;
+ background-color: #660300;
+}
+
+#tea {
+  color: #700064;
+ background-color: #FFADF6;
+}
+
+#sleepy h3 {
+  color: #1E4C70;
+  background-color: #7AB1DA;
+}
+
+.spanstyle {
+  color: #A34900;
+  background-color: #FFC99E;
+}
+
+.specialp {
+ color: #0000ff;
+ background-color: #ADF9FF;
+}
+
+a:link {
+ color: #F90800;
+}
+
+a:visited {
+ color: #25D42B;
+}
+
+a:hover {
+ color: #F7FF19;
+}
+
+footer p {
+  color:#000000;
+  background-color: #990000;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+footer {
+  color: #DBFB0D;
+  background-color: #FF0505;
+}
